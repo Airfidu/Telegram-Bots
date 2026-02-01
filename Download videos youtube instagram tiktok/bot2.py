@@ -4,7 +4,7 @@ import re
 import yt_dlp
 import time
 
-BOT_TOKEN = "8430218433:AAFRWx28rirgOPgifBG-DBfcwZWq-hsstmM"
+BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 OUTPUT = os.path.join(os.path.dirname(__file__), "videos")
 MAX_SIZE = 200 * 1024 * 1024  # 200MB
 
